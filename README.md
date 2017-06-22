@@ -1,6 +1,9 @@
 Backend app created with Spring Boot.
 
-To run the app `mvn spring-boot:run`
+To run the app just type `mvn spring-boot:run` (don't forget to install Maven's CLI if you haven't it already)
+
+The database I have chosen is an H2 database. It is embedded so you don't have to worry abut it. It will be loaded in-memory.
+The front-end is hosted in the backend app, so just go to the static folder to see the files.
 
 Goal
 ====
