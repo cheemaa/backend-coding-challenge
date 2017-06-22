@@ -1,6 +1,5 @@
 node_modules
 build
-static
 target
 *.zip
 *.iml
